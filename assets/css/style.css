@@ -24,6 +24,15 @@ a:hover {
   text-decoration: none;
 }
 
+.color-n{
+  color: #ff4a17;
+}
+.coment{
+  color: #18d26e;
+}
+.function{
+  color: rgb(37, 61, 215);
+}
 h1,
 h2,
 h3,
