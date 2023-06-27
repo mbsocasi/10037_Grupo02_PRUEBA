@@ -5,6 +5,13 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
+function bloquearEnlace(event) {
+  event.preventDefault(); // Evita el comportamiento predeterminado del enlace
+  // Puedes agregar aquí cualquier código adicional que desees ejecutar
+}
+
+
+
 (function() {
   "use strict";
 
